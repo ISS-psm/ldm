@@ -1,6 +1,6 @@
-# LDM
-# Magnetic discontinuities in the solar wind
-#============================================
+## LDM
+## Magnetic discontinuities in the solar wind
+##============================================
 
   1. OBJECTIVE
 This project is based on:
