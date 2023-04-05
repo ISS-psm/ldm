@@ -29,6 +29,6 @@ This project is maintained and developed by:
 
 Munteanu Costel, costelm@spacescience.ro
 
-Dumitru Daniel, daniel.dumitru@infpr.ro   
+Dumitru Daniel, daniel.dumitru@inflpr.ro   
 
 
